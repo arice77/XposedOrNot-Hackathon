@@ -16,6 +16,15 @@ This Flutter project serves as a client interface for the XposedOrNot API. The X
 4. Ensure Flutter and Dart SDK are installed and configured properly.
 5. Run the project on an emulator or physical device.
 
+## Demo Video
+
+
+https://github.com/arice77/XposedOrNot-Hackathon/assets/92450890/4146bb14-d61f-45c5-bd34-079d4389df67
+
+## Drive Link to Release apk
+https://drive.google.com/file/d/1r2zQ9SC6KDAFukfHjPXmb3-RMbCKKVP0/view?usp=drive_link
+
+
 
 ---
 **Note:** Please refer to the official [XposedOrNot API documentation]([https://api.xposedornot.com](https://xposedornot.com/api_doc)) for detailed information about API endpoints, usage guidelines, and terms of service.
